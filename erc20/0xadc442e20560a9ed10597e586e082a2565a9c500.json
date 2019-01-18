@@ -1,0 +1,24 @@
+{
+  "symbol": "FRC",
+  "address": "0xadc442e20560a9ed10597e586e082a2565a9c500",
+  "overview": {
+    "en": "FRC(FRCoin) is The Swiss financial team and the US Silicon Valley blockchain R&D team jointly developed to jointly explore the combination of the blockchain world and the financial sector, and solve the problems of financial crisis and war in the countries of the world.",
+    "zh": "FRC是瑞士金融团队及美国硅谷区块链研发团队联合开发，共同致力于探索区块链世界与金融领域的结合，解决全球各国的金融由于受到金融危机、战争等多个因素的影响问题。"
+  },
+  "email": "support@frcoin.ch",
+  "website": "https://frcoin.ch/",
+  "whitepaper": "https://frcoin.ch/",
+  "state": "NORMAL",
+  "published_on": "2019-01-17",
+  "initial_price":{
+        "ETH":"0.0008 ETH",
+        "USD":"0.1 USD",
+        "BTC":"0.00003 BTC"
+  },
+  "links": {
+    "twitter": "https://twitter.com/frcoinch",
+    "telegram": "https://t.me/frcoinch",
+    "github": "https://github.com/frcoin",
+    "facebook": "https://www.facebook.com/frcoinch",
+  }
+}
